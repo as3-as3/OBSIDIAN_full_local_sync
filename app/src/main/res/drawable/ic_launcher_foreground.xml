@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Vault/Link Symbol in Metallic Copper -->
+    <path
+        android:strokeWidth="3.5"
+        android:pathData="M54,35 L38,45 L38,68 L54,78 L70,68 L70,45 Z"
+        android:strokeColor="#D4AF37"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Connecting Link Node -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,50 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+
+    <!-- Link Arcs -->
+    <path
+        android:strokeWidth="2"
+        android:pathData="M48,50 Q40,40 54,30 Q68,40 60,50"
+        android:strokeColor="#E5C76B"
+        android:strokeLineCap="round"/>
+
+</vector>

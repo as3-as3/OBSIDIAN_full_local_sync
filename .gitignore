@@ -1,0 +1,28 @@
+# === Android Ignore ===
+*.apk
+*.aar
+*.ap_
+build/
+.gradle/
+local.properties
+.idea/workspace.xml
+.idea/libraries
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# === Python & Server Ignore ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+vault_config.json
+vault_hash_cache.json
+.trash/
+.tmp_chunks/
+
+# === OS Ignore ===
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Master Protocol: Ethereal Dark Palette -->
+    <color name="primary_dark">#121212</color>
+    <color name="metallic_copper">#D4AF37</color>
+    <color name="copper_light">#E5C76B</color>
+    <color name="copper_dark">#A68908</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
