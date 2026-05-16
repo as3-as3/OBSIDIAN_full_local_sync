@@ -26,3 +26,7 @@ vault_hash_cache.json
 # === OS Ignore ===
 .DS_Store
 Thumbs.db
+
+# === Temporary Doc Ignore ===
+PLAN_ABSCHLIESSEN.md
+chat_history_artifact.md
