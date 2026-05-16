@@ -14,7 +14,7 @@ from PIL import Image, ImageDraw
 
 # === Configuration ===
 CONFIG_FILE = Path("vault_config.json")
-DEFAULT_VAULT_PATH = Path(r"C:\Users\arneh\Documents\Obsidian\As3As3")
+DEFAULT_VAULT_PATH = Path.home() / "Documents" / "ObsidianVault"
 
 def load_vault_path() -> Path:
     if CONFIG_FILE.exists():
